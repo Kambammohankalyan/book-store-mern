@@ -8,10 +8,6 @@ require('dotenv').config()
 
 // middleware
 app.use(express.json());
-app.use((req, res, next) => {
-  console.log("Incoming request from origin:", req.headers.origin);
-  next();
-});
 app.use(cors({
     origin: ['http://localhost:5173', 'https://book-store-mern-sf6u.vercel.app'],
     credentials: true
