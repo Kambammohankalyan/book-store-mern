@@ -2,7 +2,7 @@
 
 A complete full-stack e-commerce application for a book store, built using the MERN stack (MongoDB, Express, React, Node.js). This application features user authentication, product management, shopping cart functionality, order processing, and an admin dashboard.
 
-## 🚀 Features
+## Features
 
 - **User Authentication**: Secure login and registration using Firebase Auth and JWT.
 - **Product Management**: Browse, search, and view details of books.
@@ -15,7 +15,7 @@ A complete full-stack e-commerce application for a book store, built using the M
 - **Responsive Design**: Built with Tailwind CSS for a seamless experience across devices.
 - **State Management**: Utilizes Redux Toolkit for efficient state management.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -38,7 +38,7 @@ A complete full-stack e-commerce application for a book store, built using the M
 - **Bcrypt**: Password hashing.
 - **Cors**: Cross-Origin Resource Sharing.
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 root/
@@ -59,7 +59,7 @@ root/
 └── ...
 ```
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 
@@ -108,17 +108,17 @@ root/
     npm run dev
     ```
 
-## 🚀 Usage
+## Usage
 
 1.  Ensure the backend server is running on port 5000.
 2.  Open the frontend application in your browser (usually at `http://localhost:5173`).
 3.  **User**: Register/Login to browse books and place orders.
 4.  **Admin**: Access the admin dashboard to manage the store.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
+## License
 
 This project is licensed under the ISC License.
