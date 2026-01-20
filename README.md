@@ -85,7 +85,6 @@ root/
 4.  Start the server:
     ```bash
     npm start
-    # or for development with nodemon
     npm run start:dev
     ```
 
