@@ -44,11 +44,11 @@ A complete full-stack e-commerce application for a book store, built using the M
 root/
 ├── backend/          # Node.js/Express Backend
 │   ├── src/
-│   │   ├── books/    # Book related logic
-│   │   ├── orders/   # Order related logic
-│   │   ├── users/    # User/Auth related logic
-│   │   └── stats/    # Admin statistics
-│   └── index.js      # Entry point
+│   │   ├── books/    
+│   │   ├── orders/   
+│   │   ├── users/    
+│   │   └── stats/    
+│   └── index.js      
 ├── frontend/         # React Frontend
 │   ├── src/
 │   │   ├── components/
