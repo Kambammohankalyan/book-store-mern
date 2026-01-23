@@ -110,7 +110,7 @@ root/
 ## Usage
 
 1.  Ensure the backend server is running on port 5000.
-2.  Open the frontend application in your browser (usually at `http://localhost:5173`).
+2.  Open the frontend application in your browser.
 3.  **User**: Register/Login to browse books and place orders.
 4.  **Admin**: Access the admin dashboard to manage the store.
 
