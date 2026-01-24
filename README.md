@@ -113,11 +113,3 @@ root/
 2.  Open the frontend application in your browser.
 3.  **User**: Register/Login to browse books and place orders.
 4.  **Admin**: Access the admin dashboard to manage the store.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the ISC License.
